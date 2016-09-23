@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 6a8de5714f600409687ceef262b1d853
+timeCreated: 1474207023
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Chest
+    100004: Cylinder
+    100006: //RootNode
+    100008: Head
+    100010: Head_end
+    100012: Hips
+    100014: l_elbow
+    100016: l_elbow_end
+    100018: l_foot_ik
+    100020: l_foot_ik_end
+    100022: l_knee
+    100024: l_knee_end
+    100026: l_lower_arm.001
+    100028: l_lower_arm.001_end
+    100030: LeftArm
+    100032: LeftFingers
+    100034: LeftFingers_end
+    100036: LeftFoot
+    100038: LeftForeArm
+    100040: LeftHand
+    100042: LeftLeg
+    100044: LeftToes
+    100046: LeftToes_end
+    100048: LeftUpLeg
+    100050: r_elbow
+    100052: r_elbow_end
+    100054: r_foot_ik
+    100056: r_foot_ik_end
+    100058: r_knee
+    100060: r_knee_end
+    100062: r_lower_arm.001
+    100064: r_lower_arm.001_end
+    100066: RightArm
+    100068: RightFingers
+    100070: RightFingers_end
+    100072: RightFoot
+    100074: RightForeArm
+    100076: RightHand
+    100078: RightLeg
+    100080: RightToes
+    100082: RightToes_end
+    100084: RightUpLeg
+    100086: Sphere
+    100088: Sun
+    400000: Armature
+    400002: Chest
+    400004: Cylinder
+    400006: //RootNode
+    400008: Head
+    400010: Head_end
+    400012: Hips
+    400014: l_elbow
+    400016: l_elbow_end
+    400018: l_foot_ik
+    400020: l_foot_ik_end
+    400022: l_knee
+    400024: l_knee_end
+    400026: l_lower_arm.001
+    400028: l_lower_arm.001_end
+    400030: LeftArm
+    400032: LeftFingers
+    400034: LeftFingers_end
+    400036: LeftFoot
+    400038: LeftForeArm
+    400040: LeftHand
+    400042: LeftLeg
+    400044: LeftToes
+    400046: LeftToes_end
+    400048: LeftUpLeg
+    400050: r_elbow
+    400052: r_elbow_end
+    400054: r_foot_ik
+    400056: r_foot_ik_end
+    400058: r_knee
+    400060: r_knee_end
+    400062: r_lower_arm.001
+    400064: r_lower_arm.001_end
+    400066: RightArm
+    400068: RightFingers
+    400070: RightFingers_end
+    400072: RightFoot
+    400074: RightForeArm
+    400076: RightHand
+    400078: RightLeg
+    400080: RightToes
+    400082: RightToes_end
+    400084: RightUpLeg
+    400086: Sphere
+    400088: Sun
+    2300000: Sphere
+    3300000: Sphere
+    4300000: Sphere
+    4300002: Cylinder
+    7400000: Armature|ArmatureAction
+    9500000: //RootNode
+    13700000: Cylinder
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
