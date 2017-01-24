@@ -16,8 +16,6 @@ public class CleanIK : MonoBehaviour {
 	public Transform RightFoot = null;
 	public float footOffset;
 
-	//turn on gizmos in playmode to check the linecasts
-	public bool showMarkers = false;
 	//length of the linecast
 	float legDistance;
 	//
